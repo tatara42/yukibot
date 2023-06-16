@@ -23,7 +23,7 @@ public class Program
 
         await RegisterCommandsAsync();
 
-        await _client.LoginAsync(TokenType.Bot, "MTExODE5Mjk5MjU2NjY1MzA1MA.GIhmkv.l6BXdhoy0GqgjlMTAixZyd5yYpVz9yJ95Cyrj4");
+        await _client.LoginAsync(TokenType.Bot, "TOKEN");
 
         await _client.StartAsync();
 

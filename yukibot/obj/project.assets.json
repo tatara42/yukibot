@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minip\\OneDrive\\Desktop\\Discord Bot\\Yuki\\yukibot\\yukibot\\yukibot.csproj",
+      "projectUniqueName": "C:\\Users\\minip\\OneDrive\\Desktop\\yukibot\\yukibot\\yukibot.csproj",
       "projectName": "yukibot",
-      "projectPath": "C:\\Users\\minip\\OneDrive\\Desktop\\Discord Bot\\Yuki\\yukibot\\yukibot\\yukibot.csproj",
+      "projectPath": "C:\\Users\\minip\\OneDrive\\Desktop\\yukibot\\yukibot\\yukibot.csproj",
       "packagesPath": "C:\\Users\\minip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minip\\OneDrive\\Desktop\\Discord Bot\\Yuki\\yukibot\\yukibot\\obj\\",
+      "outputPath": "C:\\Users\\minip\\OneDrive\\Desktop\\yukibot\\yukibot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\minip\\AppData\\Roaming\\NuGet\\NuGet.Config",
